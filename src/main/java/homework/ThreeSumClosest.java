@@ -1,12 +1,30 @@
 package homework;
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class ThreeSumClosest {
     public static int threeSumClosest(int[] nums, int target) {
         int n = nums.length, ans = 0;
         // TODO begin
+        Arrays.sort(nums);
 
+        for (int i = 0; i < n - 2; i++) {
+            int start = i + 1, end = n - 1;
+            while (start < end) {
+                int sum = nums[i] + nums[start] + nums[end];
+                if (Math.abs(target - sum) < Math.abs(target - ans)) {
+                    ans = sum;
+                }
+                if (sum > target) {
+                    end--;
+                } else if (sum < target) {
+                    start++;
+                } else {
+                    return sum;
+                }
+            }
+        }
         // TODO end
         return ans;
     }

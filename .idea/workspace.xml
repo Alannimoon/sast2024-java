@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1ffd7e11-6999-44d7-8b8b-e25330905356" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/examples/oop/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/oop/EnumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/examples/oop/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/oop/StaticExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/examples/oop/package1/package2/PackageExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/oop/package1/package2/PackageExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/ThreeSumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/ThreeSumClosest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework/Wordle/Wordle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework/Wordle/Wordle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Projects/sast-summer-training-2024/sast2024-java",
+    "last_opened_file_path": "/Users/alannimoon/Desktop/sast2024-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -124,6 +124,7 @@
       <workItem from="1721871200225" duration="14000" />
       <workItem from="1721871623354" duration="33000" />
       <workItem from="1722241030051" duration="8740000" />
+      <workItem from="1722754532757" duration="146000" />
     </task>
     <servers />
   </component>
